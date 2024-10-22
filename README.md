@@ -48,7 +48,7 @@
 - **설명**: Spring Boot와 MariaDB를 활용한 경기 일정, 및 선수 데이터 시스템 
 - **주요 기능**: 경기 기록, 경기 일정 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3FinalProject/tree/main/records, (https://github.com/nkp-95/144-3FinalProject/tree/main/scheduleresults)
+- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3FinalProject/tree/main/records, https://github.com/nkp-95/144-3FinalProject/tree/main/scheduleresults)
 
 - **설명**: Spring Boot와 MariaDB를 활용한 데이터 자동 수집 시스템 
 - **주요 기능**: KBO 사이트 경기 일정, 기록 및 선수 기록 수집
@@ -96,6 +96,6 @@
 
 ## 📞 연락처 및 협업 플랫폼
 - **이메일**: nkp95@naver.com
-- **GitHub**: [https://github.com/username](https://github.com/username)  
+- **GitHub**: [https://github.com/username](https://github.com/nkp-95)  
 - **Notion 페이지**: [프로젝트 정리](https://www.notion.so/c9b0adb854064bdb89faa1d520113f0a)  
 - **Figma 디자인**: [디자인 프로토타입](https://www.figma.com/design/HNDReC7Dek9mkngZtULFRP/144%EA%B8%B0-Kosmo-Baseball?node-id=0-1&node-type=canvas&t=s7UCgVIbSq8xfWKT-0)  
