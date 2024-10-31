@@ -134,7 +134,7 @@
 #### 📌 백엔드 프로젝트 통합본: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat)  
 ---
 
-### 📌 데이터 저장 및 정리 (Mybastis)
+### 📌 데이터 저장 및 정리 (![MyBatis](https://img.shields.io/badge/MyBatis-B7178C?style=flat-square&logo=MyBatis&logoColor=white))
 - **설명**: 데이터 베이스
 - **주요 기능**: 데이터 저장 
 - **기술 스택**: MyBatis, sql  
@@ -142,7 +142,7 @@
 
 ---
 
-### 📌 데이터 분석 및 수집 (Python)
+### 📌 데이터 분석 및 수집 (![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white))
 - **설명**: 웹 스크래핑과 머신러닝을 통한 데이터 분석  
 - **주요 기능**: 데이터 수집, 머신러닝 모델 개발, 시각화  
 - **기술 스택**: Python, Flask, Scikit-learn, Plotly  
@@ -150,7 +150,7 @@
 
 ---
 
-### 📌 프론트엔드 회원 관리 시스템
+### 📌 프론트엔드 회원 관리 시스템 (![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black))
 - **설명**: React 기반의 사용자 인터페이스 구현  
 - **기능**: 회원 가입 및 로그인 페이지 구성, 관리자 페이지
 - **기술 스택**: React, HTML, CSS  
@@ -159,15 +159,15 @@
 
 ---
 
-### 📌 프론트엔드 커뮤니케이션 기능
+### 📌 프론트엔드 커뮤니케이션 기능 (![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black))
 - **설명**: 자유게시판, 회원 문의 게시판
-- **기술 스택**: React, Flask, WebSocket  
+- **기술 스택**: React 
 - **프로젝트 링크**: [프론트 커뮤니케이션](https://github.com/nkp-95/144-3_FinalProject_frontend_community)
 - **프로젝트 링크**: [프론트 문의](https://github.com/nkp-95/144-3_FinalProject_frontend_inquiry)  
 
 ---
 
-### 📌 프론트엔드 데이터 시각화 경기 일정 및 기록
+### 📌 프론트엔드 데이터 시각화 경기 일정 및 기록 (![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white))
 - **설명**: React 기반의 수집 데이터 출력 
 - **기술 스택**: React, Plotly, HTML, CSS
 - **프로젝트 링크**: [프론트 기록실1](https://github.com/nkp-95/144-3_FinalProject_frontend_record)
@@ -177,13 +177,13 @@
 ---
 
 ## 🛠️ 디자인 및 협업 도구
-- **노션**: 프로젝트 계획 및 문서화  
-- **피그마**: UI/UX 설계 및 프로토타입 제작  
+- **노션** ( ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ): 프로젝트 계획 및 문서화  
+- **피그마** ( ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ): UI/UX 설계 및 프로토타입 제작  
 
 ---
 
 ## 📞 연락처 및 협업 플랫폼
 - **이메일**: nkp95@naver.com
-- **GitHub**: [https://github.com/username](https://github.com/username)  
+- **GitHub**: [https://github.com/nkp-95](https://github.com/username)  
 - **Notion 페이지**: [프로젝트 정리](https://www.notion.so/c9b0adb854064bdb89faa1d520113f0a)  
 - **Figma 디자인**: [디자인 프로토타입](https://www.figma.com/design/HNDReC7Dek9mkngZtULFRP/144%EA%B8%B0-Kosmo-Baseball?node-id=0-1&node-type=canvas&t=s7UCgVIbSq8xfWKT-0)  
